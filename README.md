@@ -1,5 +1,5 @@
 # IS312 Activity 3: Hello World
-This project was created for Activity 3 in the IS 312 course. It shows how to set up a basic website using Python by starting a local server and creating a simple web page. When the program runs, it displays a "Hello World Katrina Ysabel B. Laurente" message. 
+This project was created for Activity 3 in the IS 312 course. It shows how to set up a basic website using Python by starting a local server and creating a simple web page. When the program runs, it displays a **"Hello World Katrina Ysabel B. Laurente"** message. 
 
 # Framework Used 
 **Flask** - A small and simple Python tool used to build websites quickly without needing complex settings.
