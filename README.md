@@ -1,10 +1,8 @@
-# IS312 Activity 3: Basic Web App Skeleton
-A basic Flask web application skeleton that displays a "Hello World" message for IS 312 - Elective 5.
+# IS312 Activity 3: Hello World
+This project was created for Activity 3 in the IS 312 course. It shows how to set up a basic website using Python by starting a local server and creating a simple web page. When the program runs, it displays a "Hello World" message. 
 
-# Framework Description 
-Framework Used: **Flask**
-
-I chose Flask for its simplicity and lightweight structure which makes it ideal for creating a quick web skeleton.
+# Framework Used 
+**Flask** - A small and simple Python tool used to build websites quickly without needing complex settings.
 
 # How to Run the Application Locally
 1. Open PyCharm.
